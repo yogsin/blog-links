@@ -10,3 +10,7 @@ http://blog.csdn.net/seven_first
 online ebooks download website:
 
 http://b-ok.org/
+
+tensorflow model quantization:
+
+https://insight.io/github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/quantization/quantize_graph.py

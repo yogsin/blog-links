@@ -7,6 +7,8 @@ https://github.com/BUPTLdy/Caffe_Code_Analysis
 
 http://blog.csdn.net/seven_first
 
+修改caffemodel文件http://renwei.net/?p=14
+
 online ebooks download website:
 
 http://b-ok.org/
